@@ -14,6 +14,7 @@ function App(){
   </details>
 
   <h3>Hiii...react</h3>
+  <h6>I am a developer</h6>
 
     </>
   )
